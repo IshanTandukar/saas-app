@@ -10,3 +10,6 @@ export const config = {
     "/(api|trpc)(.*)",
   ],
 };
+// export const config = {
+//   matcher: ["/((?!_next).*)"], // This includes all routes except _next
+// };
